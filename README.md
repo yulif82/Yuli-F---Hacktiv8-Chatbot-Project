@@ -7,7 +7,7 @@ Aplikasi ini adalah asisten mekanik virtual berbasis kecerdasan buatan (AI) yang
 🌐 **[COBA APLIKASINYA SECARA LANGSUNG DI SINI](https://yuli-f---hacktiv8-chatbot-project-knhktczegctkwlkitbsgvd.streamlit.app/)**
 
 ## 🛠️ Teknologi yang Digunakan
-Proyek ini dikembangkan menggunakan Large Language Model (LLM) dengan integrasi:
+Project ini dikembangkan menggunakan Large Language Model (LLM) dengan integrasi:
 * **Bahasa Pemrograman:** Python
 * **Frontend/UI:** Streamlit
 * **AI Model:** Llama-3.1-8b-instant (via Groq API)
