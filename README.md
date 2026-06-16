@@ -1,6 +1,6 @@
 # 🚗 Chatbot Perawatan Mobil Mandiri (AI-Powered)
 
-Selamat datang di proyek **Chatbot Perawatan Mobil Mandiri**! 
+Selamat datang di project **Chatbot Perawatan Mobil Mandiri**! 
 
 Aplikasi ini adalah asisten mekanik virtual berbasis kecerdasan buatan (AI) yang dirancang untuk membantu pemilik kendaraan melakukan perawatan mobil dasar secara mandiri (DIY), mendiagnosis masalah ringan (seperti aki soak, ganti oli, cek radiator), dan memberikan panduan keselamatan.
 
@@ -29,4 +29,4 @@ Jika Anda ingin mencoba menjalankan kode ini di komputer Anda sendiri:
    `python -m streamlit run app.py`
 
 ---
-*Proyek ini disusun sebagai bagian dari Final Project program LLM-Based Tools & Gemini API Integration for Data Scientists oleh Hacktiv8.*
+*Project ini adalah Final Project program LLM-Based Tools & Gemini API Integration for Data Scientists oleh Hacktiv8.*
